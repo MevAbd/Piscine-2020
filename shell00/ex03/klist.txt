@@ -1,0 +1,5 @@
+Credentials cache: API:9D04D1B0-9FA2-4FA5-922C-D6602C169344
+        Principal: malbrand@42.FR
+
+  Issued                Expires             Flags    Principal
+Oct 12 12:35:08 2020  Oct 19 12:34:59 2020  FPIA   krbtgt/42.FR@42.FR
